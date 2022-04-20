@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="CallERP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DB" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="User" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="OrderType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="OrderNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallERPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CallERPResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallERPPrint">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DB" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="User" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PrintNo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="OrderType" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="OrderNO" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CallERPPrintResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CallERPPrintResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="CallERPSoapIn">
+    <wsdl:part name="parameters" element="tns:CallERP" />
+  </wsdl:message>
+  <wsdl:message name="CallERPSoapOut">
+    <wsdl:part name="parameters" element="tns:CallERPResponse" />
+  </wsdl:message>
+  <wsdl:message name="CallERPPrintSoapIn">
+    <wsdl:part name="parameters" element="tns:CallERPPrint" />
+  </wsdl:message>
+  <wsdl:message name="CallERPPrintSoapOut">
+    <wsdl:part name="parameters" element="tns:CallERPPrintResponse" />
+  </wsdl:message>
+  <wsdl:portType name="EAIWebFWKServiceSoap">
+    <wsdl:operation name="CallERP">
+      <wsdl:input message="tns:CallERPSoapIn" />
+      <wsdl:output message="tns:CallERPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CallERPPrint">
+      <wsdl:input message="tns:CallERPPrintSoapIn" />
+      <wsdl:output message="tns:CallERPPrintSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="EAIWebFWKServiceSoap" type="tns:EAIWebFWKServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CallERP">
+      <soap:operation soapAction="http://tempuri.org/CallERP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CallERPPrint">
+      <soap:operation soapAction="http://tempuri.org/CallERPPrint" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="EAIWebFWKServiceSoap12" type="tns:EAIWebFWKServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="CallERP">
+      <soap12:operation soapAction="http://tempuri.org/CallERP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CallERPPrint">
+      <soap12:operation soapAction="http://tempuri.org/CallERPPrint" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="EAIWebFWKService">
+    <wsdl:port name="EAIWebFWKServiceSoap" binding="tns:EAIWebFWKServiceSoap">
+      <soap:address location="http://172.16.10.58:93/erp.asmx" />
+    </wsdl:port>
+    <wsdl:port name="EAIWebFWKServiceSoap12" binding="tns:EAIWebFWKServiceSoap12">
+      <soap12:address location="http://172.16.10.58:93/erp.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,4 @@
+2014/09/17 09:13:36.805 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2014/09/17 09:13:36.819 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2014/09/17 09:13:36.851 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2014/09/17 10:09:10.660 pcadmin Error:DirectstorageSub.ashx,訊息:輸入字串格式不正確。

@@ -1,0 +1,102 @@
+2016/06/21 09:16:00.469 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2016/06/21 09:16:00.703 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 09:16:02.653 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2016/06/21 09:16:02.653 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 09:16:08.394 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2016/06/21 09:16:08.394 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 02:52:32.044 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2016/06/21 02:52:32.059 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 02:52:34.197 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2016/06/21 02:52:34.212 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 02:52:35.991 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2016/06/21 02:52:35.991 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:15:40.845 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:15:40.845 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:15:40.892 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:15:53.200 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:15:53.200 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:15:53.200 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:16:34.509 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:16:34.509 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:16:34.509 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:19:51.582 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:19:51.582 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:19:51.582 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:21:27.241 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:21:27.241 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:21:27.241 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:21:42.232 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:21:42.232 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:21:42.232 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:22:38.267 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:22:38.267 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:22:38.267 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:24:32.287 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:24:32.287 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:24:32.287 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:25:06.700 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:25:06.700 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:25:06.700 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:26:21.003 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:26:21.003 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:26:21.003 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:30:37.746 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:30:37.746 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:30:37.761 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 04:42:38.024 T150207 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:42:38.024 T150207 Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 04:42:38.024 T150207 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:40:07.856 pcadmin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:40:07.856 pcadmin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:40:07.856 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:40:18.370 pcadmin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:40:18.370 pcadmin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:40:18.370 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:42:23.778 admin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:42:23.778 admin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:42:23.778 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:42:44.603 pcadmin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:42:44.603 pcadmin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:42:44.603 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:42:58.753 admin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:42:58.753 admin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:42:58.753 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:49:47.969 admin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:49:47.969 admin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:49:47.969 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:50:19.465 admin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:50:19.465 admin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:50:19.465 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:53:45.446 admin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:53:45.446 admin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:53:45.446 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/06/21 06:54:19.766 admin 不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:54:19.766 admin Error:ReceivePur.ashx,訊息:不支援此種介面 (發生例外狀況於 HRESULT: 0x80004002 (E_NOINTERFACE))
+2016/06/21 06:54:19.766 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

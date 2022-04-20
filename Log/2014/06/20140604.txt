@@ -1,0 +1,9 @@
+2014/06/04 05:16:03.137 Other_Error 無效的物件名稱 'sysUser'。
+2014/06/04 05:43:52.110 admin The given type name was unrecognized
+2014/06/04 05:47:19.848 admin The given type name was unrecognized
+2014/06/04 06:03:07.334 admin The given type name was unrecognized
+2014/06/04 06:03:18.381 admin The given type name was unrecognized
+2014/06/04 06:07:37.011 admin The given type name was unrecognized
+2014/06/04 06:40:14.445 admin Cannot load data source: ERPDB
+Cannot open file 'C:\sybase1253\OLEDB\ERPDB.ids'.
+2014/06/04 06:43:31.918 admin The given type name was unrecognized

@@ -1,0 +1,59 @@
+
+/** 清除內外邊距 **/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, 
+blockquote, /* structural elements 結構元素 */
+pre, /* text formatting elements 文本格式元素 */
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, 
+img,/* img elements 圖片元素 */ 
+ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,/* list elements 清單元素 */
+fieldset, form, label, legend, button, input, textarea, /* form elements 表單元素 */
+table, caption, tbody, tfoot, thead, tr, th, td, /* table elements 表格元素 */
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	/*font-size: 100%;*/
+	font: inherit;
+	/*vertical-align: baseline;*/
+	outline: 0;
+	background: transparent;
+	-webkit-text-size-adjust: none;/*讓Chrome也乖乖的以11px顯示字型*/
+}
+/* HTML5 display-role reset for older browsers */
+header, menu, nav, section, article, aside, details, figcaption, figure, hgroup, footer	{ display: block;}/* 元素會以區塊方式呈現，除非設定 position 或 float */ 
+/* structural elements 結構元素 */
+blockquote, q 								{ quotes: none; }
+blockquote:before, blockquote:after,
+q:before, q:after 							{ content: ''; content: none;}
+body										{ line-height: 1; background-color: #FFFFFF; } 
+/** 設置預設字體 **/
+body, p, ul, li, td, button, input, textarea{ font-family: 微軟正黑體,Verdana;
+h1, h2, h3, h4, h5, h6 						{ font-size: 100%; } 
+em											{ font-style: normal;} 
+/** 重置清單元素 **/
+body, div, p, ol, ul, li					{ margin: 0px; padding: 0px; list-style: none; }
+/** 重置表格元素 **/
+table										{ border-collapse: collapse; border-spacing: 0; border:0; text-align: left; }			
+td											{ padding: 0px; }
+/** 重置圖片元素 **/
+img											{ border: 0px; vertical-align: middle;}/** 垂直居中 **/
+/**  **/ 
+:focus 										{ outline: 0; }
+.outsidediv									{ width: 100%; text-align: center; }
+.outsidetable								{ width: 990px; text-align: left; }
+/** 浮動元素使其父元素自動調整高度 方法一 <p style="clear: both;"> **/ 
+/** 浮動元素使其父元素自動調整高度 方法二 clearfix **/ 
+/* Clear Fix */
+.clearfix:after 							{ content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+.clearfix									{ display: inline-block;}
+/* Hide from IE Mac */
+html[xmlns] .clearfix 						{ display: block;}
+* html .clearfix 							{ height: 1%;}

@@ -1,0 +1,30 @@
+2016/04/13 10:56:21.241 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2016/04/13 10:56:21.912 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 02:39:50.432 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2016/04/13 02:39:50.448 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 02:39:51.727 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2016/04/13 02:39:51.743 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 02:40:00.962 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2016/04/13 02:40:00.962 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 02:40:07.234 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2016/04/13 02:40:07.234 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 02:40:12.288 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2016/04/13 02:40:12.288 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 04:12:37.921 admin Error:ReceivePur.ashx,訊息:字串未被辨認為有效的 DateTime。
+2016/04/13 04:12:37.967 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 04:13:45.812 admin Error:ReceivePur.ashx,訊息:字串未被辨認為有效的 DateTime。
+2016/04/13 04:13:45.812 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 04:14:47.214 admin Error:ReceivePur.ashx,訊息:字串未被辨認為有效的 DateTime。
+2016/04/13 04:14:47.214 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/04/13 04:16:24.543 admin Error:ReceivePur.ashx,訊息:字串未被辨認為有效的 DateTime。
+2016/04/13 04:16:24.543 admin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

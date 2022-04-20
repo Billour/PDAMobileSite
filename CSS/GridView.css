@@ -1,0 +1,68 @@
+﻿body {
+    font-family: 'Times New Roman','Microsoft JhengHei',\5FAE\8EDF\6B63\9ED1\9AD4;
+}
+.tablestyle 
+{
+	font-size:large;
+	border: solid 1px #7f7f7f;
+}
+
+.altrowstyle 
+{
+    background-color: #edf5ff;
+}
+
+.headerstyle th{
+    background: url(../Image/sprite.png) repeat-x 0px 0px;
+    border-color: #989898 #cbcbcb #989898 #989898;
+    border-style: solid solid solid none;
+    border-width: 1px 1px 1px medium;
+    text-align: center;
+    color: #000;
+    font-family:'Times New Roman','Microsoft JhengHei',\5FAE\8EDF\6B63\9ED1\9AD4;
+}  
+
+
+    
+.rowstyle .sortaltrow, .altrowstyle .sortaltrow 
+{
+    background-color: #edf5ff;
+}
+
+.rowstyle .sortrow, .altrowstyle .sortrow 
+{
+    background-color: #dbeaff;
+}
+
+.rowstyle td, .altrowstyle td 
+{
+    padding: 4px 10px 4px 10px;
+    border-right: solid 1px #cbcbcb;
+}
+
+  
+
+
+.auto-table {
+    width: 100%;
+}
+
+.auto-topdown {
+    width: auto;
+    background-color: #fbf5d1;
+}
+
+.auto-side {
+    width: 3px;
+    background-color: #fbf5d1;
+}
+
+.divbackground {
+    background-color: #fbf5d1; 
+    width: 100%; 
+    height: 100%;
+}
+
+.tabletital{
+    background-image: url(../Image/pager_bg.gif);
+}

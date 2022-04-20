@@ -1,0 +1,5 @@
+2014/06/05 11:17:13.049 admin The given type name was unrecognized
+2014/06/05 11:18:36.232 admin The given type name was unrecognized
+2014/06/05 11:57:32.763 admin 無效的物件名稱 'pur_rec_mst'。
+2014/06/05 03:16:16.377 admin ConnectionString 中未指定 OLE DB Provider。正確範例為 'Provider=SQLOLEDB;'。
+2014/06/05 03:16:35.917 admin ConnectionString 中未指定 OLE DB Provider。正確範例為 'Provider=SQLOLEDB;'。

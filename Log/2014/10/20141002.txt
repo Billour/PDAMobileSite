@@ -1,0 +1,40 @@
+2014/10/02 08:06:31.199 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:06:31.207 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:06:31.252 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 08:06:45.603 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:06:45.604 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:06:45.606 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 08:21:34.832 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:21:34.833 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:21:34.835 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 08:53:13.005 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:53:13.006 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:53:13.011 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 08:53:21.505 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:53:21.506 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 08:53:21.508 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 09:04:04.376 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:04:04.377 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:04:04.379 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 09:48:57.990 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:48:57.991 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:48:57.993 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 09:52:20.517 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:52:20.517 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:52:20.519 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 09:52:26.366 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:52:26.367 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:52:26.369 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/02 09:52:34.984 pmdept14 從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:52:34.985 pmdept14 Error:Function.ashx,訊息:從字元字串轉換到 uniqueidentifier 時失敗。
+2014/10/02 09:52:34.987 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

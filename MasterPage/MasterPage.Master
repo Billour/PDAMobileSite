@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="eAIWeb.MasterPage.MasterPage" %>
+
+<%@ Register Src="~/Sys/UserControls/Banner.ascx" TagPrefix="uc1" TagName="Banner" %>
+<%@ Register Src="~/Sys/UserControls/Menu.ascx" TagPrefix="uc1" TagName="Menu" %>
+<%@ Register Src="~/Sys/UserControls/SiteMap.ascx" TagPrefix="uc1" TagName="SiteMap" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>南俊 PDA Web</title>
+    <style type="text/css">
+                body {
+            background: url(<% =(Request.ApplicationPath == "/" ? "" : Request.ApplicationPath) %>/Image/bg.jpg) #FCF5D2 no-repeat;
+            font-size: 16px;
+            font-family: Georgia, 'Times New Roman', Times, seri;
+        }
+
+    </style>
+    <link rel="icon" href="../Image/logo.ico" type="image/x-icon">
+</head>
+
+<body style="margin-left: 0px; margin-top: 0px; margin-bottom: 0px; height: 100%">
+    <form id="form1" runat="server">
+        <div>
+            <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%">
+                <tr>
+                    <td valign="top">
+                        <uc1:Banner runat="server" ID="Banner" />
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle">
+                        <uc1:Menu runat="server" ID="Menu" />
+                    </td>
+                </tr>
+                <tr style="height: 25px">
+                    <td valign="middle">
+                        <uc1:SiteMap runat="server" ID="SiteMap" />
+                    </td>
+                </tr>
+                <tr style="height:490px; background:#fbf6d0;">
+                    <td valign="top" class="Content">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" style="height: 30px;">
+                        <div class="stripe" style="width:99.5%;"></div>
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%;">
+                            <tr style="font-size: 10pt;">
+                                <td align="left" style="width: 37%;">Copyright © 2014 eAI Technologies Inc. All rights reserved.
+                                </td>
+                                <td align="center" style="width: 33%;">漢門科技股份有限公司 eAI Technologies Inc.
+                                </td>
+                                <td align="right" style="width: 30%;">
+                                    <asp:Label ID="lblSysVersion" runat="server" Text=""></asp:Label>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

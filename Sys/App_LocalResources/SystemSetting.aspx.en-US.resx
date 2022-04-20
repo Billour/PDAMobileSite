@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnADResource1.Text" xml:space="preserve">
+    <value>AD Connection Test</value>
+  </data>
+  <data name="btnADResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="btnSaveResource1.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="btnSaveResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="cbDataPremResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="cbDataPremResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="cbEnableAuthResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="cbEnableAuthResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label2Resource1.Text" xml:space="preserve">
+    <value>AD Domain:</value>
+  </data>
+  <data name="Label2Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label3Resource1.Text" xml:space="preserve">
+    <value>AD Account:</value>
+  </data>
+  <data name="Label3Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label4Resource1.Text" xml:space="preserve">
+    <value>AD Password:</value>
+  </data>
+  <data name="Label4Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Label5Resource1.Text" xml:space="preserve">
+    <value>(To check the presence of AD account, set the following parameters)</value>
+  </data>
+  <data name="Label5Resource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblADErrResource1.Text" xml:space="preserve">
+    <value>Connection fails, check the set parameters</value>
+  </data>
+  <data name="lblADErrResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblADParameterIsBlankResource1.Text" xml:space="preserve">
+    <value>AD parameters can not have a blank</value>
+  </data>
+  <data name="lblADParameterIsBlankResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblADSuccessResource1.Text" xml:space="preserve">
+    <value>The connection is successful</value>
+  </data>
+  <data name="lblADSuccessResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblDataPremResource1.Text" xml:space="preserve">
+    <value>Data control:</value>
+  </data>
+  <data name="lblDataPremResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblEnableAuthResource1.Text" xml:space="preserve">
+    <value>The need to verify the mail:</value>
+  </data>
+  <data name="lblEnableAuthResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblEndTimeResource1.Text" xml:space="preserve">
+    <value>Time limit:</value>
+  </data>
+  <data name="lblEndTimeResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblERRorResource1.Text" xml:space="preserve">
+    <value>Account or Password is not entered</value>
+  </data>
+  <data name="lblERRorResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblMailPWDResource1.Text" xml:space="preserve">
+    <value>Mail Password:</value>
+  </data>
+  <data name="lblMailPWDResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblMailUserResource1.Text" xml:space="preserve">
+    <value>Mail Account:</value>
+  </data>
+  <data name="lblMailUserResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblMsgResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblMsgResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblNotExistResource1.Text" xml:space="preserve">
+    <value>SysSet.Xml does not exist</value>
+  </data>
+  <data name="lblNotExistResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSMTPResource1.Text" xml:space="preserve">
+    <value>SMTP Server:</value>
+  </data>
+  <data name="lblSMTPResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSuccessResource1.Text" xml:space="preserve">
+    <value>Setup is complete</value>
+  </data>
+  <data name="lblSuccessResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSystemMailResource1.Text" xml:space="preserve">
+    <value>System Administrator E-mail:</value>
+  </data>
+  <data name="lblSystemMailResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblSysVersionResource1.Text" xml:space="preserve">
+    <value>System Version:</value>
+  </data>
+  <data name="lblSysVersionResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lbltitalResource1.Text" xml:space="preserve">
+    <value>System Parameter Settings</value>
+  </data>
+  <data name="lbltitalResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblWebSystemMailResource1.Text" xml:space="preserve">
+    <value>Systems E-mail:</value>
+  </data>
+  <data name="lblWebSystemMailResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="lblWebSystemTitalResource1.Text" xml:space="preserve">
+    <value>Company Name:</value>
+  </data>
+  <data name="lblWebSystemTitalResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtADAccountResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtADAccountResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtADDomainResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtADDomainResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtADPWDResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtADPWDResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtEndTimeResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtEndTimeResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtMailPWDResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtMailPWDResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtMailUserResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtMailUserResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSMTPResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSMTPResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSystemMailResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSystemMailResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSysVersionResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtSysVersionResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtWebSystemMailResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtWebSystemMailResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtWebSystemTitalResource1.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="txtWebSystemTitalResource1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+</root>

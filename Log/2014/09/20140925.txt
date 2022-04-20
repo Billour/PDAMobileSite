@@ -1,0 +1,3 @@
+2014/09/25 11:28:29.953 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2014/09/25 11:28:29.966 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2014/09/25 11:28:29.992 Other_Error Error:Common.ashx,訊息:執行緒已經中止。

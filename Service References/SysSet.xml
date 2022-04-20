@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SysSet>
+  <Mail>
+    <WebSystemMail>fIZrp9YckNYTblNjhbiECg==</WebSystemMail>
+    <SystemMail>fIZrp9YckNYTblNjhbiECg==</SystemMail>
+    <SMTP>fIZrp9YckNYTblNjhbiECg==</SMTP>
+    <EnableAuth>fIZrp9YckNYTblNjhbiECg==</EnableAuth>
+    <MailUser>fIZrp9YckNYTblNjhbiECg==</MailUser>
+    <MailPWD>fIZrp9YckNYTblNjhbiECg==</MailPWD>
+  </Mail>
+</SysSet>

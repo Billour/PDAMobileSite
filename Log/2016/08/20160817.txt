@@ -1,0 +1,3 @@
+2016/08/17 03:52:17.033 T150281 Error:DirectstoragePur.ashx,訊息:已超過連接 Timeout 的設定。在作業完成之前超過逾時等待的時間，或者是伺服器未回應。
+2016/08/17 03:52:17.049 T150281 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

@@ -1,0 +1,6 @@
+2014/12/25 01:11:42.993 pcadmin Error:Function.ashx,訊息:執行緒已經中止。
+2014/12/25 01:11:43.150 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/12/25 01:11:43.635 pcadmin Error:Function.ashx,訊息:執行緒已經中止。
+2014/12/25 01:11:43.641 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

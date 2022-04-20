@@ -1,0 +1,9 @@
+2014/10/28 08:05:49.131 Other_Error Error:Function.ashx,訊息:執行緒已經中止。
+2014/10/28 08:05:49.334 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/28 08:05:51.029 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2014/10/28 08:05:51.034 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2014/10/28 08:05:53.068 Other_Error Error:Common.ashx,訊息:執行緒已經中止。
+2014/10/28 08:05:53.072 Other_Error 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

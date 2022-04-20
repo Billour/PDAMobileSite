@@ -1,0 +1,12 @@
+2016/08/16 09:33:17.679 T150281 Error:Function.ashx,訊息:執行緒已經中止。
+2016/08/16 09:33:17.695 T150281 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/08/16 09:33:19.099 T150281 Error:Function.ashx,訊息:執行緒已經中止。
+2016/08/16 09:33:19.099 T150281 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/08/16 09:38:33.409 T150281 Error:Function.ashx,訊息:執行緒已經中止。
+2016/08/16 09:38:33.424 T150281 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2016/08/16 09:38:34.953 T150281 Error:Function.ashx,訊息:執行緒已經中止。
+2016/08/16 09:38:34.953 T150281 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

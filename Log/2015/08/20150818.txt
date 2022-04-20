@@ -1,0 +1,36 @@
+2015/08/18 08:49:28.360 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:28.532 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:32.073 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:32.088 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:33.056 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:33.056 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:34.210 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:34.226 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:36.534 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:36.550 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:36.956 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:36.956 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:38.921 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:38.937 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:45.660 pmdept14 Error:Common.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:45.676 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:48.219 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:48.219 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:49.108 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:49.124 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:50.574 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:50.590 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2015/08/18 08:49:51.729 pmdept14 Error:Function.ashx,訊息:執行緒已經中止。
+2015/08/18 08:49:51.729 pmdept14 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。

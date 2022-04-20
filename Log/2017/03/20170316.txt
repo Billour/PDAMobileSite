@@ -1,0 +1,12 @@
+2017/03/16 01:04:37.336 pcadmin Error:Function.ashx,訊息:執行緒已經中止。
+2017/03/16 01:04:37.539 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2017/03/16 01:04:38.272 pcadmin Error:Function.ashx,訊息:執行緒已經中止。
+2017/03/16 01:04:38.272 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2017/03/16 01:04:39.770 pcadmin Error:Function.ashx,訊息:執行緒已經中止。
+2017/03/16 01:04:39.786 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
+2017/03/16 01:04:40.456 pcadmin Error:Function.ashx,訊息:執行緒已經中止。
+2017/03/16 01:04:40.456 pcadmin 無法插入 NULL 值到資料行 'Status'，資料表 'PDA.dbo.NotifyQueue'; 資料行不得有 Null。INSERT 失敗。
+陳述式已經結束。
